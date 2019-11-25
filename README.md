@@ -1,2 +1,7 @@
-# fcc_infosec_qa
-freeCodeCamp Information Security and QA 001
+Welcome to Glitch
+=================
+
+# Free Code Camp - Applied InfoSec Challenges
+=============================================
+
+\ ゜o゜)ノ
