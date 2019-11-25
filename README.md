@@ -1,2 +1,9 @@
-# fcc_infosec_qa
-freeCodeCamp Information Security and QA 001
+FCC Test Challengs Prototype 
+============================
+
+QA with mocha & chai
+
+Made by [Glitch](https://glitch.com/)
+-------------------
+
+\ ゜o゜)ノ
